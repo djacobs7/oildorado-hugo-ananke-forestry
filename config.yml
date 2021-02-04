@@ -18,7 +18,7 @@ sitemap:
 params:
   favicon: ''
   site_logo: ''
-  description: The last theme you'll ever need. Maybe.
+  description: 'Nothing much changes, until everything does'
   facebook: ''
   twitter: 'https://twitter.com/GoHugoIO'
   instagram: ''
@@ -33,3 +33,4 @@ params:
   background_color_class: bg-black
   featured_image: /images/gohugo-default-sample-hero-image.jpg
   recent_posts_number: 2
+  body_classes: baskerville
